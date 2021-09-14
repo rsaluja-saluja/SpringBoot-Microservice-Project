@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=Fq85GschdLw&list=PLSVW22jAG8pDY3lXXEv1hKVIAlnJ9nDN_&index=3
 Need to change git repo url and id/pwd in Config server properties
+Also required Microservices-config-server repo used by Config Server
 
 4 Microservices
 	1. Product - random port- use MongoDB - takes care of product configuration
